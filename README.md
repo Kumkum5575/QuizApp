@@ -39,9 +39,9 @@ Quiz-App/
 ---
 
 ## 📸 Preview
-(Add screenshots or GIF of your Quiz App here)
 
----
+---<img width="1337" height="622" alt="Screenshot 2026-01-27 185517" src="https://github.com/user-attachments/assets/1e6df815-397b-4f51-be1d-e9f83a680826" />
+
 
 ## 🚀 Future Improvements
 🔹 Timer based quiz  
