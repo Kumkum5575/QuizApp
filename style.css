@@ -1,6 +1,8 @@
-h1 {
+
+.kumkum{
+    
   position: fixed;
-  top: 0;
+  top: 5px;
   width: 100%;
   margin: 0;
   padding: 20px;
@@ -10,6 +12,7 @@ h1 {
   font-size: 22px;
   line-height: 1.6;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+
 }
 * {
     margin: 0;
